@@ -1,7 +1,3 @@
-Perfecto 👍 Aquí tienes los **requerimientos funcionales** del proyecto en texto plano, sin símbolos ni caracteres especiales, listos para copiar y pegar en tu archivo `docs/Requerimientos_Funcionales.md` o en un documento de texto.
-
----
-
 REQUERIMIENTOS FUNCIONALES – PROYECTO KANBAN
 
 1. El sistema debe permitir crear un nuevo proyecto con un nombre definido por el usuario.
@@ -29,7 +25,3 @@ VERSION DEL SISTEMA
 Versión: 1.0 (Preliminar)
 Tipo de entrega: Estructura inicial del proyecto en Java
 Objetivo: Demostrar comprensión y aplicación de los principios de POO
-
----
-
-¿Quieres que también te dé la versión del UML en texto (explicando cómo se conectan las clases) para que puedas usarla al crear el diagrama preliminar?
